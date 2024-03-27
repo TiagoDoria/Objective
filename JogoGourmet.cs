@@ -7,7 +7,7 @@ namespace DesafioObjective
     {
         private List<Prato> PratosLista;
         private int id = 0;
-        string nomePrato;
+        private string nomePrato;
         public JogoGourmet()
         {
             PratosLista = new List<Prato>();
